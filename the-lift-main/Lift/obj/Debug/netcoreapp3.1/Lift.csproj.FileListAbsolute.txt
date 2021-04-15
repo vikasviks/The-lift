@@ -1,0 +1,13 @@
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\bin\Debug\netcoreapp3.1\Lift.exe
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\bin\Debug\netcoreapp3.1\Lift.deps.json
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\bin\Debug\netcoreapp3.1\Lift.runtimeconfig.json
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\bin\Debug\netcoreapp3.1\Lift.runtimeconfig.dev.json
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\bin\Debug\netcoreapp3.1\Lift.dll
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\bin\Debug\netcoreapp3.1\Lift.pdb
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\obj\Debug\netcoreapp3.1\Lift.csprojAssemblyReference.cache
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\obj\Debug\netcoreapp3.1\Lift.AssemblyInfoInputs.cache
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\obj\Debug\netcoreapp3.1\Lift.AssemblyInfo.cs
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\obj\Debug\netcoreapp3.1\Lift.csproj.CoreCompileInputs.cache
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\obj\Debug\netcoreapp3.1\Lift.dll
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\obj\Debug\netcoreapp3.1\Lift.pdb
+C:\training\Training From Home\Assignment1\the-lift-main\Lift\obj\Debug\netcoreapp3.1\Lift.genruntimeconfig.cache
