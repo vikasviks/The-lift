@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Lift",
+    "\\Lift\\Delegates",
     "\\Lift\\Entities"
   ],
-  "SelectedNode": "\\Lift",
+  "SelectedNode": "\\Lift\\Entities\\Floor.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -19,11 +19,19 @@ namespace Lift.Entities
             }).ToArray();
 
             Lift = new Lift(liftCapacity);
+
+            Lift.LiftArriverAtAFloor += LiftArrivedAtAFloor;
         }
 
         public void LiftRequested(Direction direction, int floorNumberRequestedOn)
         {
 
+        }
+
+        public void LiftArrivedAtAFloor(int floorNumber)
+        {
+            var floor = this.Floors.Single(floor => floor.FloorNumber == floorNumber);
+            floor.LiftHasArrived(this.Lift);
         }
     }
 }
